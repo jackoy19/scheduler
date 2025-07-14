@@ -62,3 +62,5 @@ class Scheduler {
     return schedules;
   }
 }
+
+export default Scheduler;
